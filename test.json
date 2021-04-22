@@ -1,0 +1,24 @@
+[{
+  "donation_flag": true,
+  "active": true,
+  "_id": "5e5aa6e95fcc8c0074a58b79",
+  "id_user_creator": "5e470ad35fcc8c0074a58b75",
+  "name": "Doação de Computadores e notebooks",
+  "short_description": "Campanha de errecadação de computadores usados para montar laboratório de informática.",
+  "description": "Campanha de errecadação de computadores usados para montar laboratório de informática em ONG. O laboratório sera criado para dar aulas gratuitas. Quem quiser fazer a doação favor entrar em contato com Bruno Hauck professor e sócio fundador do Startdev no email brunohauck@gmail.com.",
+  "technology_description": "Trabalho volutário",
+  "feedback_description": "teste",
+  "work_type": "Volutário",
+  "dataCriacao": "2020-02-29T18:01:13.802Z"
+}, {
+  "donation_flag": false,
+  "active": true,
+  "_id": "5fab03e3a887b1003518ab5c",
+  "id_user_creator": "5e470ad35fcc8c0074a58b75",
+  "name": "Freelancer na Startdev",
+  "short_description": "Freelancer na startdev",
+  "description": "Freelancer na startdev 30 reais a hora",
+  "work_type": "Freelancer",
+  "location": "Belo Horizonte",
+  "dataCriacao": "2020-11-10T21:19:31.643Z"
+}]
